@@ -22,7 +22,7 @@ jobs:
       run: pip install yfinance pandas
 
     - name: Run Python Script
-      run: python yahoo_scraper.py
+      run: python yahoo_scrapper.py
 
     - name: Commit and Push Results
       run: |

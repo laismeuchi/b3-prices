@@ -1,4 +1,4 @@
-# yahoo_scraper.py
+# yahoo_scrapper.py
 
 import yfinance as yf
 import pandas as pd
